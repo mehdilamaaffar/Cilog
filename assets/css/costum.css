@@ -1,0 +1,16 @@
+h1, h2, h3 {
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
+}
+
+.head {
+	background: #499494;
+	padding: 10px;
+}
+
+.head h1 {
+	padding: 10px;
+}
+
+.head p {
+	padding: 10px;
+}
